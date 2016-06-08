@@ -61,16 +61,16 @@ function jsonEdit() {
                 },
                 "replace": {
                     ".html": [{
-                        "old": "http://r03.uzaicdn.com",
-                        "new": "../../../r03.uzaicdn.com"
+                        "old": "",
+                        "new": ""
                     }, {
-                        "old": "http://r03.uzaicdn.com",
-                        "new": "../../../r03.uzaicdn.com"
+                        "old": "",
+                        "new": ""
                     }],
                     ".js": [],
                     ".css": [{
-                        "old": "http://r03.uzaicdn.com",
-                        "new": "../../../../../r03.uzaicdn.com"
+                        "old": "",
+                        "new": ""
                     }]
                 },
                 "hybridVersion": {
