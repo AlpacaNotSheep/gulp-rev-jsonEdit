@@ -1,0 +1,14 @@
+{
+  "name": "gulp-jsonEdit",
+  "version": "0.1.0",
+  "description": "create a json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyle326",
+  "license": "MIT",
+  "dependencies": {
+    "through-gulp": "^0.5.0"
+  }
+}
