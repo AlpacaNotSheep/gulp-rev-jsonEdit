@@ -26,7 +26,7 @@ var serverPath = '../Publish/content/hybrid/',
     projectURL = [{
         'name': 'custom',
         'url': '//mdingzhi.u.com/hybrid/',
-        'root_path': '../../mdingzhi_u_com/Hybrid/'
+        'root_path': '../../mdingzhi_uzai_com/Hybrid/'
     }, {
         'name': 'discover',
         'url': '//m.u.com/discover/hybrid/',
@@ -34,7 +34,7 @@ var serverPath = '../Publish/content/hybrid/',
     }, {
         'name': 'member',
         'url': '//mhome.u.com/',
-        'root_path': '../../mhome_u_com/Hybrid/'
+        'root_path': '../../mhome_uzai_com/Hybrid/'
     }, {
         'name': 'product',
         'url': '//m.u.com/product/hybrid/',
@@ -47,11 +47,11 @@ var serverPath = '../Publish/content/hybrid/',
     }, {
         'name': 'mbuy',
         'url': '//mbuy.u.com/hybrid/',
-        'root_path': '../../mbuy_u_com/Hybrid/'
+        'root_path': '../../mbuy_uzai_com/Hybrid/'
     }, {
         'name': 'mpay',
         'url': '//mpay.u.com/hybrid/',
-        'root_path': '../../mpay_u_com/Hybrid/'
+        'root_path': '../../mpay_uzai_com/Hybrid/'
     }],
 
     // 版本号文件 json格式

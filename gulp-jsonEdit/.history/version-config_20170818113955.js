@@ -25,33 +25,33 @@ var serverPath = '../Publish/content/hybrid/',
     // root_path: 物理地址
     projectURL = [{
         'name': 'custom',
-        'url': '//mdingzhi.u.com/hybrid/',
-        'root_path': '../../mdingzhi_u_com/Hybrid/'
+        'url': '//mdingzhi.uzai.com/hybrid/',
+        'root_path': '../../mdingzhi_uzai_com/Hybrid/'
     }, {
         'name': 'discover',
-        'url': '//m.u.com/discover/hybrid/',
+        'url': '//m.uzai.com/discover/hybrid/',
         'root_path': '../../M/discover/Hybrid/'
     }, {
         'name': 'member',
-        'url': '//mhome.u.com/',
-        'root_path': '../../mhome_u_com/Hybrid/'
+        'url': '//mhome.uzai.com/',
+        'root_path': '../../mhome_uzai_com/Hybrid/'
     }, {
         'name': 'product',
-        'url': '//m.u.com/product/hybrid/',
+        'url': '//m.uzai.com/product/hybrid/',
         'root_path': '../../M/product/hybrid/'
     },
 	{
         'name': 'singleproduct',
-        'url': '//m.u.com/singleproduct/hybrid/',
+        'url': '//m.uzai.com/singleproduct/hybrid/',
         'root_path': '../../M/singleproduct/hybrid/'
     }, {
         'name': 'mbuy',
-        'url': '//mbuy.u.com/hybrid/',
-        'root_path': '../../mbuy_u_com/Hybrid/'
+        'url': '//mbuy.uzai.com/hybrid/',
+        'root_path': '../../mbuy_uzai_com/Hybrid/'
     }, {
         'name': 'mpay',
-        'url': '//mpay.u.com/hybrid/',
-        'root_path': '../../mpay_u_com/Hybrid/'
+        'url': '//mpay.uzai.com/hybrid/',
+        'root_path': '../../mpay_uzai_com/Hybrid/'
     }],
 
     // 版本号文件 json格式
