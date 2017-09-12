@@ -183,10 +183,9 @@ function jsonEdit(protocal) {
             }
             for (var i = 0; i < versionFormat_html.length; i++) {
                 html[i] = {};
-                //console.log('000---' + versionFormat_html[i][0]);
 
                 var projectName = versionFormat_html[i][0].split('/')[1];
-                //console.log('111---' + projectName);
+                
                 var url = versionHtmlFunc(projectName);
                 if (url === 'false') {
                     html[i].file = cdn + versionFormat_html[i][0];
